@@ -16,9 +16,10 @@ struct Player {
 };
 
 int main() {
-	{
+	
 		vector<Player> players = { {4,"A"},{4,"F"},{5,"E"},{5,"F"},{4,"A"},{1,"C"} };
-		sort(players.begin(),players.end())
+		sort(players.begin(), players.end(), [](const Player& a, const Player& b){
+			return a.score < b.score; }); //-> 사용자 정의 정렬법);
 
 	return 0;
 }

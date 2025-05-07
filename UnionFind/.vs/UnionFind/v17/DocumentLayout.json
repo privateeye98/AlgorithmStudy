@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\",
+  "WorkspaceRootPath": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\p5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\p4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\p3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\p1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\theory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\theory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\theory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\p1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9CFD9556-BBC5-4C7B-A2EB-122C95EA42D4}|UnionFind\\UnionFind.vcxproj|solutionrelative:UnionFind\\p1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,47 +39,101 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "p2.cpp",
-              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\p2.cpp",
-              "RelativeDocumentMoniker": "UnionFind\\p2.cpp",
-              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\p2.cpp",
-              "RelativeToolTip": "UnionFind\\p2.cpp",
-              "ViewState": "AgIAABwAAAAAAAAAAAAEwC4AAAABAAAAAAAAAA==",
+              "Title": "p5.cpp",
+              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p5.cpp",
+              "RelativeDocumentMoniker": "UnionFind\\p5.cpp",
+              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p5.cpp",
+              "RelativeToolTip": "UnionFind\\p5.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T13:15:22.152Z",
+              "WhenOpened": "2025-05-07T07:31:36.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "p4.cpp",
+              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p4.cpp",
+              "RelativeDocumentMoniker": "UnionFind\\p4.cpp",
+              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p4.cpp",
+              "RelativeToolTip": "UnionFind\\p4.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T07:20:25.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "p1.cpp",
-              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\p1.cpp",
-              "RelativeDocumentMoniker": "UnionFind\\p1.cpp",
-              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\p1.cpp",
-              "RelativeToolTip": "UnionFind\\p1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "p3.cpp",
+              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p3.cpp",
+              "RelativeDocumentMoniker": "UnionFind\\p3.cpp",
+              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p3.cpp",
+              "RelativeToolTip": "UnionFind\\p3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T12:42:09.462Z",
+              "WhenOpened": "2025-05-07T05:50:38.022Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "p2.cpp",
+              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p2.cpp",
+              "RelativeDocumentMoniker": "UnionFind\\p2.cpp",
+              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p2.cpp",
+              "RelativeToolTip": "UnionFind\\p2.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T05:16:19.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "p1.cpp",
+              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p1.cpp",
+              "RelativeDocumentMoniker": "UnionFind\\p1.cpp",
+              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\p1.cpp",
+              "RelativeToolTip": "UnionFind\\p1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T05:16:16.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "theory.cpp",
+              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\theory.cpp",
+              "RelativeDocumentMoniker": "UnionFind\\theory.cpp",
+              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBB38\uC11C\\GitHub\\AlgorithmStudy\\UnionFind\\UnionFind\\theory.cpp",
+              "RelativeToolTip": "UnionFind\\theory.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T08:27:23.314Z"
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "theory.cpp",
-              "DocumentMoniker": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\theory.cpp",
-              "RelativeDocumentMoniker": "UnionFind\\theory.cpp",
-              "ToolTip": "C:\\Users\\makeu\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\AlgorithmStudy\\UnionFind\\UnionFind\\theory.cpp",
-              "RelativeToolTip": "UnionFind\\theory.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAUwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T08:27:23.314Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
